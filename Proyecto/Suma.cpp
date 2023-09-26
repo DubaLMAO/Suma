@@ -10,7 +10,7 @@ int main(){
     cout << "Ingresa el primer número" << endl;
     cin >> a;
 
-    cout << "Ingresa el segundo numero" << endl;
+    cout << "Ingresa el segundo número" << endl;
     cin >> b;
 
     res = a + b;
